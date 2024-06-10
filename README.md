@@ -16,8 +16,17 @@ Após processar todas as imagens, seu código deverá terminar com a seguinte me
 
 Assuma *n* como o número de carros presentes em uma imagem e, ao fim, na soma de todos oscarros presentes em todas as imagens, e m como o número de imagens presentes no dataset.
 
+## Explicação do código
+```bash
 
-# Para uso:
-Será ecessário baixar o arquivo 'yolo-voc.1.0.h5' em https://drive.google.com/file/d/1-1w_XYbeYIeg7BelrYbNoaKDC2L5Xk7q/view?usp=drive_link pois o github só aceita arquivos até 25mb. Após baixar colocar na raiz do arquivo.
+```
+## Para uso:
+Será necessário baixar o arquivo 'yolo-voc.1.0.h5', pois o github só aceita arquivos até 25mb. Após baixar colocar na raiz do arquivo.
+```bash
+https://drive.google.com/file/d/1-1w_XYbeYIeg7BelrYbNoaKDC2L5Xk7q/view?usp=drive_link
+```
 
-Ou pode ser acessado através do Colab: https://drive.google.com/file/d/1J5YK7mW_XvYavcTmG2UiYG-gQyHb_8rG/view?usp=sharing
+Ou pode ser acessado através do Colab: 
+```bash
+https://drive.google.com/file/d/1J5YK7mW_XvYavcTmG2UiYG-gQyHb_8rG/view?usp=sharing
+```
